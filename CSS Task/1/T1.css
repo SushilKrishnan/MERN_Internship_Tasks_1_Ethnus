@@ -1,0 +1,16 @@
+table
+{
+    width: 1000;
+    background: #96d3d1;
+    border:solid 1px;
+    border-radius: 15px;
+    
+    /* width="1000" bgcolor="#96d3d1" border="1" bordercolor="white" style="border-collapse: collapse;" */
+}
+
+td, th
+{
+    padding-left: 1px;
+    border: solid 1px;
+    border-radius: 10px;
+}

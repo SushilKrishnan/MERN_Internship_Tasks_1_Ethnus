@@ -1,0 +1,68 @@
+.tv
+{
+    border: solid 1px;
+    padding-left: 3;
+    padding-right: 4;
+    padding-top: 4;
+    border-spacing: 0;
+}
+
+.uv
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: #add9e6;
+}
+
+.lv 
+{
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: blue;
+}
+
+li a.vactive 
+{
+    display: block;
+    padding: 8px 16px;
+    background-color: #fea500;
+    color: white;
+}
+
+li a:hover:not(.active) 
+{
+    background-color: #555;
+    color: white;
+}
+
+.th
+{
+    border: solid 1px;
+    padding-left: 4px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-spacing: 0;
+}
+
+.dh
+{
+    background-color: #55555542;
+    width: 70px;
+    height: 40px;
+    text-align: center;
+    border-right: solid 1px blue;
+    color: blue;
+}
+
+.dah
+{
+    background-color: #555555d6;
+    width: 70px;
+    height: 40px;
+    text-align: center;
+    border-right: solid 1px blue;
+    color: white;
+}
